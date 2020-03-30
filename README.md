@@ -6,3 +6,5 @@ In response to the COVID-19 pandemic, the White House and a coalition of leading
 The dataset is downloaded from https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge (Version 4, dated 20-03-2020)
 
 My python program uses Natural Language Processing tools to clean the dataset and extract common phrases and word-cloud depicting the most talked about words. Another task of summarizing top 5 papers' body-text containing specific words according to the number of occurences is also done. The summarizer is created using word scoring by TF-IDF, a weight/statistical measure used to evaluate how important a word is to a document in a collection or corpus. The summary is made up of top 5 most weighted sentences. The related_papers function accepts a search word and displays the top summaries with paper IDs so as to access the entire paper if found useful.
+
+The top papers regarding "Drug repurposing", "Chloroquine", "Atazanavir" and "Antiviral inhibitors" are extracted in this python notebook.
