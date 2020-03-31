@@ -8,3 +8,5 @@ The dataset is downloaded from https://www.kaggle.com/allen-institute-for-ai/COR
 My python program uses Natural Language Processing tools to clean the dataset and extract common phrases and word-cloud depicting the most talked about words. Another task of summarizing top 5 papers' body-text containing specific words according to the number of occurences is also done. The summarizer is created using word scoring by TF-IDF, a weight/statistical measure used to evaluate how important a word is to a document in a collection or corpus. The summary is made up of top 5 most weighted sentences. The related_papers function accepts a search word and displays the top summaries with paper IDs so as to access the entire paper if found useful.
 
 The top papers regarding "Drug repurposing", "Chloroquine", "Atazanavir" and "Antiviral inhibitors" are extracted in this python notebook.
+
+Cite: "CORD-19 - Data extraction functions" kernel on kaggle.
