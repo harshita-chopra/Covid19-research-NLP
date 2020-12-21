@@ -13,3 +13,7 @@ The dataset is downloaded from https://www.kaggle.com/allen-institute-for-ai/COR
 
 
 Ref: "CORD-19 - Data extraction functions", "COVID-19: Analysing Research Papers NLP" | Kaggle.
+
+--
+
+**Note**: This was a self-initiated and independent project solely for the purpose of exploring and learning.
