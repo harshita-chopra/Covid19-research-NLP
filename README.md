@@ -12,4 +12,4 @@ The dataset is downloaded from https://www.kaggle.com/allen-institute-for-ai/COR
 - The related_papers() function accepts a search word and displays the top summaries with paper IDs so as to access the entire paper if found useful. The top papers regarding "Drug repurposing", "Chloroquine", "Atazanavir" and "Antiviral inhibitors" are extracted in this python notebook. This project lets us gain valuable insights from a huge bundle of papers.
 
 
-Cite: "CORD-19 - Data extraction functions" kernel on kaggle, "COVID-19: Analysing Research Papers NLP" kernel on kaggle.
+Ref: "CORD-19 - Data extraction functions", "COVID-19: Analysing Research Papers NLP" | Kaggle.
